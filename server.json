@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-11-17T21:58:03.073Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 45,
+      "createdAt": "2022-11-17T21:58:03.073Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-11-18T21:58:03.073Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-11-18T00:20:17.520Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-11-18T00:43:33.597Z",
+      "id": 5
+    },
+    {
+      "description": "Densenvolvimento de App",
+      "type": "income",
+      "category": "Venda",
+      "price": 10000,
+      "createdAt": "2023-08-26T10:00:43.342Z",
+      "id": 6
+    },
+    {
+      "description": "Pastel",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 10,
+      "createdAt": "2023-08-26T10:14:12.093Z",
+      "id": 7
+    },
+    {
+      "description": "Criação de sistema",
+      "type": "income",
+      "category": "Tecnologia",
+      "price": 20000,
+      "createdAt": "2023-08-26T10:15:30.690Z",
+      "id": 8
+    }
+  ]
+}
